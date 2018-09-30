@@ -1,0 +1,1 @@
+These are all the scripts written in C# for the game Forgotten Treasures
